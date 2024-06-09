@@ -1,8 +1,13 @@
 [
   {
-    "ProductId": "",
-    "ProductName": "",
-    "ImageUrl": ["/pixelcrafts/IMG_8193.JPG","","",""],
-    "VideoUrl": ""
+    "ProductId": "001",
+    "ProductName": "Premium Glossy Black Hanuman Dream Catcher For Car & Home Decore",
+    "ImageUrl": [
+      "/pixelcrafts/img/hanuman_1.PNG",
+      "/pixelcrafts/img/hanuman_2.PNG",
+      "/pixelcrafts/img/hanuman_3.PNG",
+      "/pixelcrafts/img/hanuman_4.PNG"
+    ],
+    "VideoUrl": "/pixelcrafts/img/hanuman_v.MP4"
   }
 ]
