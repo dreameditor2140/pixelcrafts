@@ -9,5 +9,16 @@
       "/pixelcrafts/img/hanuman_4.JPG"
     ],
     "VideoUrl": "/pixelcrafts/img/hanuman_v.mp4"
+  },
+  {
+    "ProductId": "002",
+    "ProductName": "Premium Glossy Black Krishna Dream Catcher For Car & Home Decore",
+    "ImageUrl": [
+      "/pixelcrafts/img/krishna_1.png",
+      "/pixelcrafts/img/krishna_2.png",
+      "/pixelcrafts/img/krishna_3.png",
+      "/pixelcrafts/img/krishna_4.JPG"
+    ],
+    "VideoUrl": "/pixelcrafts/img/krishna_v.mp4"
   }
 ]
