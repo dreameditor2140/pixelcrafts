@@ -20,5 +20,14 @@
       "/pixelcrafts/img/krishna_4.jpg"
     ],
     "VideoUrl": "/pixelcrafts/img/krishna_v.mp4"
-  }
+  },   {
+      "ProductId": "003",
+      "ProductName": "Premium Glossy Black Om Dream Catcher For Car & Home Decore",
+      "ImageUrl": [
+        "/pixelcrafts/img/om1.png",
+        "/pixelcrafts/img/om2.png",
+        "/pixelcrafts/img/om3.png",
+      ],
+      "VideoUrl": "/pixelcrafts/img/omvideo.mp4"
+    }
 ]
