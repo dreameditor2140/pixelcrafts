@@ -250,12 +250,13 @@ function contactViaWhatsApp(productId) {
 
     const phoneNumber = '917359657806';
     const message = encodeURIComponent(
-        `Hello Pixel Craft,\n\nI'm interested in: *${product.name}*\n\n` +
+        `Hello Pixel Craft,\n\n` +
+        `I'm interested in: *${product.name}*\n\n` +
         `Description: ${product.description}\n` +
         (product.price ? `Price: ${product.price}\n` : '') +
-        `\nPlease provide more information about this product.\n\nThank you!`
+        `\nProduct Image:\n${product.image}\n\n` +
+        `Please provide more information about this product.\n\nThank you!`
     );
-
     const whatsappUrl = `https://wa.me/${phoneNumber}?text=${message}`;
     window.open(whatsappUrl, '_blank');
 }
